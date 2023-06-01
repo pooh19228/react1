@@ -1,3 +1,10 @@
+.main-bg{
+  height: 300px;  
+  /* background-image : url('./img/bg.jpg');  */
+  background-size : cover;
+  background-position : center;
+}
+
 .App {
   text-align: center;
 }
@@ -27,6 +34,11 @@
 .App-link {
   color: #61dafb;
 }
+
+/* .event-box {
+  background-color: yellow;
+  padding: 10px;
+} */
 
 @keyframes App-logo-spin {
   from {
